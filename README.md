@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A software engineer from French</h3>
 
-- 🌱 I’m currently learning **symfony php docker angular javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kevin-schmitt](https://github.com/kevin-schmitt)
 
